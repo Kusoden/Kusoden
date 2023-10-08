@@ -1,7 +1,8 @@
 <table>
   <tr>
-   <td><img src="https://github-readme-stats.vercel.app/api?username=Kusoden&theme=transparent&show_icons=true&rank_icon=percentile"/></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kusoden&theme=transparent&layout=compact"/></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=Kusoden&theme=transparent&show_icons=true&rank_icon=percentile&hide_border=true"/></td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=Kusoden&theme=transparent&hide_border=true"/></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kusoden&theme=transparent&layout=compact&hide_border=true"/></td>
   </tr>
 </table>
 
