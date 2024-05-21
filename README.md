@@ -1,22 +1,19 @@
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=Kusoden&theme=transparent&show_icons=true&rank_icon=percentile&hide_border=true"/></td>
-    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=Kusoden&theme=transparent&hide_border=true"/></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kusoden&theme=transparent&layout=compact&hide_border=true"/></td>
-  </tr>
-</table>
+<section align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kusoden&theme=transparent&show_icons=true&rank_icon=percentile&hide_border=true&text_color=d1d1d1&title_color=d1d1d1&icon_color=5027d5"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kusoden&theme=transparent&hide_border=true&ring=5027d5&fire=white&currStreakNum=d1d1d1&sideNums=d1d1d1&currStreakLabel=d1d1d1&sideLabels=5027d5&dates=d1d1d1"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kusoden&theme=transparent&layout=compact&hide_border=true&text_color=FFFFFF&title_color=d1d1d1"/>
+</section>
 
 <h2 align="center">skills 🛠️</h2>
-
-<section align="center">
+<section>
   <table>
-    <tr flex-direction="row">
+    <tr flex-direction="row" >
       <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height=45px/>
+        <img src="https://devicon-website.vercel.app/api/csharp/plain.svg?color=%235027D5" height=45px/>
         <p>C-Sharp</p>
       </td>
       <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" height=45px/>
+        <img src="https://devicon-website.vercel.app/api/dotnetcore/plain.svg?color=%235027D5" height=45px/>
         <p>DotNet Core</p>
       </td>
       <td>
@@ -86,8 +83,8 @@
     </tr>
   </table>
 </section>
-  
-<h2 align="center">Contact 🤝</h2>
+
+<h2 align="center">Contact 🫱🏼‍🫲🏼</h2>
 
 <section align="center">
 <a href="https://www.linkedin.com/in/farzanatar/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="60px" target="_blank" rel="noreferrer noopener"/></a>
